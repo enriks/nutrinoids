@@ -1,0 +1,55 @@
+id;nombre;apellidos;email;fechaNac;codigo;imagenurl;hijos;comunidades_id;laborales_id;poblaciones_id;nacionalidades_id;estudios_id;dieteticas_id;dietas_id;dantropometricos_id;deportes_id;sexos_id;created_at;updated_at
+1;Daniel Terrazas;Pozo;lucia.arevalo@latinmail.com;02/06/2006;3;;3;2;17;1;1;11;2;10;5;6;7;NULL;NULL
+2;Srita. Eva Castellanos;Más;alba.porras@zamudio.com;21/04/2017;1;;4;2;5;1;1;2;3;22;19;1;14;NULL;NULL
+3;Santiago Olivo Hijo;Luevano;paez.lidia@castellano.com;13/02/1990;4;;1;2;1;1;1;16;1;5;10;20;1;NULL;NULL
+4;Jan Cortés;Navas;cuevas.sandra@deanda.es;07/12/1987;2;;3;2;17;1;1;12;1;2;13;22;23;NULL;NULL
+5;Dr. Roberto Adorno Hijo;Duarte;vera64@porras.com;06/06/1992;4;;2;2;22;1;1;15;4;10;20;1;19;NULL;NULL
+6;Srita. Natalia Abad;Zapata;rafael94@yahoo.es;16/12/2009;1;;1;2;16;1;1;16;3;11;17;2;5;NULL;NULL
+7;Cristian Vélez;Santamaría;ordonez.marta@tejeda.org;03/02/1989;3;;2;2;13;1;1;13;2;8;6;18;23;NULL;NULL
+8;Sra. Erika Menéndez;Carrasquillo;nevarez.omar@padilla.com.es;05/11/2000;1;;4;2;19;1;1;11;1;21;13;7;7;NULL;NULL
+9;Jon Pedroza;Piña;villagomez.marc@roig.net;23/04/1979;2;;3;2;7;1;1;10;3;23;20;17;8;NULL;NULL
+10;Jordi Merino;Duran;dmadera@mas.org;09/05/2007;2;;4;2;24;1;1;2;3;12;2;21;18;NULL;NULL
+11;Ing. Luna Jaramillo Segundo;Castañeda;sara.yanez@hotmail.com;27/12/1986;4;;4;2;20;1;1;6;3;2;1;3;12;NULL;NULL
+12;Ing. Mar Roque;Vela;plaza.angela@tirado.org;26/04/2009;1;;2;2;25;1;1;16;4;18;12;5;24;NULL;NULL
+13;Ing. Oliver Macías;Esquibel;alex.ontiveros@latinmail.com;10/04/1997;3;;4;2;14;1;1;12;1;8;9;24;4;NULL;NULL
+14;Nahia Guajardo Segundo;Sotelo;luis.miguel@gmail.com;30/09/1992;4;;3;2;5;1;1;8;2;25;2;12;20;NULL;NULL
+15;Dn. Alex Luna;Balderas;candela.saiz@yahoo.es;26/08/2017;2;;1;2;9;1;1;20;4;2;15;8;5;NULL;NULL
+16;Candela Esteve;Esteban;fernando57@villar.com;29/09/1977;4;;2;2;16;1;1;3;3;8;22;2;24;NULL;NULL
+17;Sra. Sandra Heredia;Macías;julia41@ozuna.org;16/11/2012;1;;3;2;9;1;1;22;2;20;11;17;7;NULL;NULL
+18;Miguel Tirado;Peres;nino.leo@negrete.net;19/11/1987;3;;2;2;15;1;1;11;1;3;8;15;14;NULL;NULL
+19;Gonzalo Magaña;Enríquez;dejesus.lola@latinmail.com;30/01/1972;3;;2;2;9;1;1;7;2;7;11;12;9;NULL;NULL
+20;Blanca Cisneros;Franco;rodrigo.santos@leyva.com;22/08/1978;2;;4;2;13;1;1;8;4;3;8;19;11;NULL;NULL
+21;Raúl Romo Tercero;Bernal;avalos.erika@yahoo.es;25/11/2010;1;;4;2;21;1;1;13;4;21;1;12;11;NULL;NULL
+22;Lic. Leo Sarabia Tercero;Madrid;sanchez.fatima@latinmail.com;20/11/2007;3;;4;2;20;1;1;20;2;9;22;10;18;NULL;NULL
+23;Gabriela Holguín Tercero;Rodrigo;raquel01@riojas.es;25/04/1975;3;;4;2;8;1;1;11;4;8;22;10;1;NULL;NULL
+24;César Salinas;Camarillo;ncastano@cornejo.com;05/04/2004;3;;3;2;2;1;1;14;1;25;4;13;10;NULL;NULL
+25;Celia Marín;Pérez;anna45@sanabria.com;23/09/1972;2;;1;2;10;1;1;8;2;11;5;2;9;NULL;NULL
+26;Gael Arevalo;Marcos;yanez.naiara@baca.com;14/04/1994;1;;1;2;6;1;1;8;2;8;8;2;21;NULL;NULL
+27;Miguel Alonso;Lozano;sergio47@yahoo.es;27/08/2002;3;;3;2;11;1;1;14;3;24;24;4;22;NULL;NULL
+28;Elsa Polo Segundo;Salgado;echevarria.guillermo@aguirre.org;12/01/2011;3;;4;2;8;1;1;15;1;6;4;23;21;NULL;NULL
+29;Nuria Ocasio;Navas;gcano@terra.com;09/06/1981;4;;3;2;10;1;1;8;1;22;4;3;25;NULL;NULL
+30;Samuel Tejeda;Camarillo;jmarrero@rico.es;04/10/2004;4;;2;2;15;1;1;5;1;3;20;14;11;NULL;NULL
+31;Dr. Daniel Zarate;Marcos;javier.luque@hotmail.es;28/09/1971;3;;4;2;9;1;1;13;4;6;19;24;2;NULL;NULL
+32;Dr. Francisco Javier Roig;Véliz;lidia98@hotmail.es;12/08/2012;1;;1;2;19;1;1;4;2;5;11;22;11;NULL;NULL
+33;Inés Sánchez Hijo;Valadez;usalinas@costa.org;30/07/2007;4;;3;2;2;1;1;12;4;2;9;5;4;NULL;NULL
+34;Ing. Andrea Velásquez;Espinosa;beatriz82@hispavista.com;24/03/2017;3;;3;2;9;1;1;17;1;19;23;9;14;NULL;NULL
+35;Lidia Rodríguez;Mondragón;coquendo@espino.com.es;26/06/1970;1;;2;2;1;1;1;8;3;5;15;19;3;NULL;NULL
+36;Alicia Armijo;Gurule;eolivera@jaime.net;24/07/1999;4;;2;2;1;1;1;13;1;19;9;5;21;NULL;NULL
+37;Daniel Font;Vidal;roybal.victoria@reynoso.es;22/11/2012;4;;1;2;16;1;1;25;3;19;11;8;15;NULL;NULL
+38;Dr. Elena Manzano Segundo;Oliva;martina83@terra.com;18/05/2007;1;;1;2;11;1;1;18;4;9;9;9;19;NULL;NULL
+39;Sara Valenzuela;Tórrez;patricia29@ozuna.org;27/11/1976;3;;4;2;13;1;1;3;2;4;1;13;22;NULL;NULL
+40;Ian Ibáñez;Del Río;tiglesias@villar.net;31/08/2007;4;;3;2;13;1;1;4;2;17;6;21;11;NULL;NULL
+41;Joan Pastor;Villegas;abrego.ivan@gmail.com;23/01/1973;1;;3;2;13;1;1;9;2;18;16;1;4;NULL;NULL
+42;Alicia Aponte;Rivero;reynoso.carlos@live.com;06/04/1975;1;;3;2;2;1;1;7;2;24;20;21;15;NULL;NULL
+43;Dr. Lucas Rosado Segundo;Prieto;david.manzanares@live.com;07/10/1991;1;;3;2;21;1;1;16;4;16;3;16;10;NULL;NULL
+44;Zoe Carretero;Escobar;jaramillo.luna@clemente.org;20/12/1988;2;;1;2;10;1;1;13;4;14;12;10;11;NULL;NULL
+45;Jan Flores Tercero;Guajardo;adriana46@griego.com;14/04/2014;3;;3;2;13;1;1;17;1;4;15;5;11;NULL;NULL
+46;Jimena Nieves Tercero;Benavídez;aaron.armas@pedroza.com;23/02/2009;1;;3;2;10;1;1;13;4;11;7;8;6;NULL;NULL
+47;Sra. Valentina Pereira Segundo;Alonso;cmatos@gmail.com;26/10/1998;3;;4;2;16;1;1;16;3;6;6;4;15;NULL;NULL
+48;Lic. Sandra Candelaria Segundo;Hernádez;nuria.delvalle@lomeli.com;08/09/1971;4;;1;2;12;1;1;1;3;9;21;17;22;NULL;NULL
+49;Aaron Gaytán Segundo;Quintanilla;alonso.villarreal@hotmail.es;17/09/1971;2;;1;2;14;1;1;24;3;1;2;21;8;NULL;NULL
+50;Joel Rojas;Bustamante;hector47@zayas.com;03/12/1976;1;;1;2;7;1;1;6;4;9;6;11;4;NULL;NULL
+59;lazaro javier;hernandez;lazaro.hernandez@uneatlantico.es;02/10/1966;12334;;0;0;0;0;0;0;0;0;0;0;0;27/06/2018 14:46;27/06/2018 14:46
+60;lazaro javier;hernández;lazaro.hernandez@uneatlantico.es;02/10/1966;123;;0;0;0;0;0;0;0;0;0;0;0;27/06/2018 14:52;27/06/2018 14:52
+61;iñaki;elio;iñaki.elio@uneatlantico.es;27/06/2018;12334;;0;0;0;0;0;0;0;0;0;0;0;27/06/2018 14:55;27/06/2018 14:55
+62;lorenzo;elio;lorenzo.elio@uneatlantico.es;27/06/2018;12334;;0;0;0;0;0;0;0;0;0;0;0;29/06/2018 15:14;29/06/2018 15:14
